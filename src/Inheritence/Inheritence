@@ -1,0 +1,14 @@
+Inheritance: creating of class by inheriting the properties and behaviour of other class
+
+Base   ->  Derived
+Parent ->  Child
+Super  ->  Sub
+
+Single: A<-B
+
+Multi-level: A<-B<-C
+
+Hierarchical: A<-B    A<-C
+
+Multiple -> not in java   A,B <-C
+

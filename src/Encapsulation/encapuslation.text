@@ -1,0 +1,8 @@
+Encapsulation -> packing or Binding of state(id) and behaviour(show) of object.
+
+to achieve robustness -> firmness or rigid
+
+also provide data hiding
+->by making fields private and making its getter and setter methods
+
+

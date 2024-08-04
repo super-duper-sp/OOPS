@@ -1,0 +1,20 @@
+Polymorphism:
+
+Poly -> Many
+Morphism ->  Forms
+
+types ->   Compile-time       Runtime
+           Early binding      Late binding
+           Static             Dynamic
+
+           Single Class       Two or more Class
+           Overloading        Overiding
+
+
+Overloading:
+
+
+
+
+
+super vs this
